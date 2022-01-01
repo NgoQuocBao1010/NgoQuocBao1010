@@ -3,7 +3,6 @@ I'm a 21 years old passionate Developer from VietNam.
 
 ---
 
-<br/>
 
 ## 🙋‍♂️ About Me
 
