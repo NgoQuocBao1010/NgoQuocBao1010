@@ -48,7 +48,7 @@ I'm a 21 years old passionate Developer from VietNam <img align="top" style="wid
 <a href="#"><img style="width:30%px;padding-right:8px" alt="NgoQuocBao's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoQuocBao1010&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p> -->
 
-| <a href="#"><img alt="NgoQuocBao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NgoQuocBao1010&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></a> | <a href="#"><img alt="NgoQuocBao's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoQuocBao1010&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
+| <a href="#"><img align="center" alt="NgoQuocBao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NgoQuocBao1010&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></a> | <a href="#"><img align="center" alt="NgoQuocBao's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoQuocBao1010&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
 | ------------- | ------------- |
 <br/>
 
