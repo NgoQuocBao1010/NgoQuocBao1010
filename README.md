@@ -1,5 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Quốc Bảo
-I'm a 21 years old passionate Developer from VietNam.
+I'm a 21 years old passionate Developer from VietNam <img align="top" style="width:24px;marign-top:8px" src="https://img.icons8.com/color/48/000000/vietnam.png"/>.
 
 ---
 
@@ -11,8 +11,6 @@ I'm a 21 years old passionate Developer from VietNam.
 - 🌱 At the momment, I'm focusing on learning Machine Learning 🤖 development with Python, Web development with Vue.js and blockchain technology.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/NgoQuocBao1010)**
 
 - 📫 How to reach me **quocbao.ngoh@gmail.com**
 
@@ -47,16 +45,9 @@ I'm a 21 years old passionate Developer from VietNam.
     <a href="#"><img alt="NgoQuocBao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NgoQuocBao1010&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="#"><img alt="NgoQuocBao's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoQuocBao1010&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
-<br/>
 
-<a href="#"><img alt="NgoQuocBao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NgoQuocBao1010&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
