@@ -52,7 +52,7 @@ I'm a 21 years old passionate Developer from VietNam <img align="top" style="wid
 <p align="left">
 
 <a href = "https://twitter.com/ngohquocbao1010"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://twitter.com/ngohquocbao1010"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/color/48/000000/skype--v4.png"/></a>
+<a href = "https://t.co/DintsHFG5f"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/color/48/000000/skype--v4.png"/></a>
 <a href = "https://zalo.me/0939983979"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
 <a href = "mailto:quocbao.ngoh@gmail.com"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 
