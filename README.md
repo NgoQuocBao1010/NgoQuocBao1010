@@ -1,5 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Quốc Bảo 🤌🤌🤌
-I'm a 21 years old passionate Developer from VietNam <img align="top" style="width:24px;marign-top:8px" src="https://img.icons8.com/color/48/000000/vietnam.png"/>.
+I'm a 21 years old developer from VietNam <img align="top" style="width:24px;marign-top:8px" src="https://img.icons8.com/color/48/000000/vietnam.png"/>.
 
 ---
 
@@ -8,7 +8,7 @@ I'm a 21 years old passionate Developer from VietNam <img align="top" style="wid
 
 - 🏫 I'm currently a senior student of Can Tho University.
 
-- 🌱 At the momment, I'm focusing on learning Machine Learning 🤖 development with Python, Web development with Vue.js and blockchain technology.
+- 🌱 At the momment, I'm focusing on learning Machine Learning 🤖 development with Python and Web development with Vue.js.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
