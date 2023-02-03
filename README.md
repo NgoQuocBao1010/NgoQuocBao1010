@@ -8,7 +8,9 @@ I'm a 22 years old developer from VietNam <img align="top" style="width:24px;mar
 
 - 🏫 I'm currently a senior student of Can Tho University.
 
-- 🌱 At the momment, I'm focusing on learning Machine Learning 🤖 development with Python and Web development with Vue.js.
+- 🌱 At the momment, I'm a full-time backend engineer working at [Fuixlabs company](https://fuixlabs.com/).
+
+- 🔬 I'm interested in learning Machine Learning 🤖, Data Engineering 🔢 with Python and Web development with Vue.js.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
