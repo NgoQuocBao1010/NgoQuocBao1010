@@ -1,22 +1,6 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Quốc Bảo 🤌🤌🤌
-I'm a 22 years old developer from VietNam <img align="top" style="width:24px;marign-top:8px" src="https://img.icons8.com/color/48/000000/vietnam.png"/>.
-
----
-
-
 ## 🙋‍♂️ About Me
 
-- 🏫 I'm currently a senior student of Can Tho University.
-
-- 🌱 At the momment, I'm a full-time backend engineer working at [Fuixlabs company](https://fuixlabs.com/).
-
-- 🔬 I'm interested in learning Machine Learning 🤖, Data Engineering 🔢 with Python and Web development with Vue.js.
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **quocbao.ngoh@gmail.com**
-
-- ⚡ Fun fact **I enjoy football, games, books and going to the GYM very often.**
+I am a skilled backend engineer with expertise in Node.js, MongoDB, and blockchain technology. Currently, I am contributing to the success of Fuixlabs company by developing scalable and efficient systems. While I primarily work with Node.js, I am also passionate about Python, Django, and data engineering. With experience in Vue.js, I am well-versed in full-stack development. Although I am happy in my current role, I am open to exploring new opportunities in Python or Django development. It would be a privilege to collaborate with you in the future.
 
 <br/>
 
