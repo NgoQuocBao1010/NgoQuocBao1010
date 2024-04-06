@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 
-I am a backend engineer with expertise in Node.js, MongoDB, and blockchain technology. Currently, I am contributing to the success of Fuixlabs company by developing scalable and efficient systems. While I primarily work with Node.js, I am also passionate about Python, Django, and data engineering. With experience in Vue.js, I am well-versed in full-stack development. Although I am happy in my current role, I am open to exploring new opportunities in Python or Django development. It would be a privilege to collaborate with you in the future.
+I am a backend engineer with expertise in Node.js, MongoDB, and blockchain technology. Currently, I am contributing to the success of Fuixlabs company by developing scalable and efficient systems. While I primarily work with Node.js, I am also passionate about Python, Django, and data engineering.
 
 <br/>
 
