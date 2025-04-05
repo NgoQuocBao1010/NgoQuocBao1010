@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 
-I am a backend engineer with expertise in Node.js, MongoDB, and blockchain technology. Currently, I am contributing to the success of Fuixlabs company by developing scalable and efficient systems. While I primarily work with Node.js, I am also passionate about Python, Django, and data engineering.
+I am currently a fulltime fullstack developer. 🧑🏽‍💻
 
 <br/>
 
